@@ -1,6 +1,6 @@
 🎨 Block Tracers
 
-Follow gentle lines to your favorite blocks
+Tracers to your favorite blocks
 
 Highlights:
 
@@ -18,11 +18,9 @@ Netherite armor, tools, and blocks
 
 Elytras, Ender Chests, Ender Pearls, Firework Rockets
 
-EnchantedGolden Apples
+Enchanted Golden Apples
 
-End Crystals, Conduits, Heavy Cores
-
-Shulker Shells and all Shulker Box items
+End Crystals and all Shulker Box items
 
 Bundles of every color
 
