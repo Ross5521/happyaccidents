@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "happyaccidents",
+  "version": "${version}",
+  "name": "Happy Accidents",
+  "description": "bless the bottle",
+  "authors": [
+    "Daddy_Ross"
+  ],
+  "contact": {
+    "repo": "https://github.com/Ross5521/happyaccidents"
+  },
+  "icon": "assets/template/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "dev.happyaccidents.HappyAccidents"
+    ]
+  },
+  "mixins": [
+    "happyaccidents.mixins.json"
+  ],
+  "custom": {
+    "meteor-client:color": "108,212,255"
+  },
+  "depends": {
+    "java": ">=21",
+    "minecraft": ["${mc_version}"],
+    "meteor-client": "*"
+  }
+}
