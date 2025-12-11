@@ -12,7 +12,7 @@ Per-block toggles so you only render what you care about.
 
 🧭 Entity Tracers
 
-Clean tracers to high-value entities and drops (Also stolen fromm Thunderhack)
+Clean tracers to high-value entities and drops (Also stolen from Thunderhack)
 
 Netherite armor, tools, and blocks
 
